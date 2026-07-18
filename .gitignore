@@ -1,16 +1,2 @@
 # 1. Private Credentials (CRITICAL)
 .env
-
-# 2. Local Databases & Cached Vector Stores
-chroma_db/
-.cache/
-
-# 3. Virtual Environments & Local Package Environments
-venv/
-.venv/
-__pycache__/
-*.pyc
-
-# 4. OS Specific Garbage Files
-.DS_Store
-Thumbs.db
